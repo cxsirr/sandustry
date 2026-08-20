@@ -1,0 +1,12 @@
+{
+  "manifestVersion": 1,
+  "id": "cxsir.darkish-sky",
+  "name": "Dark-ish Sky",
+  "version": "1.0.0",
+  "apiVersion": 1,
+  "entry": "main.js",
+  "description": "Replaces the bright blue sky shader's output with a dark, neutral grey. Retexture of Kingcub's Dark Sky.",
+  "author": "cxsir",
+  "dependencies": [],
+  "loadOrder": 0
+}

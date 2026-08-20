@@ -1,0 +1,11 @@
+[
+  {
+    "id": "sprint-meter-unlimited",
+    "file": "js/bundle.js",
+    "find": "o.meter=Math.max(0,o.meter-t/(2.2*(1+.5*s))),o.meter<=0&&(o.recharging=!0)",
+    "expectedMatches": 1,
+    "occurrence": 1,
+    "operation": "replace",
+    "code": "o.meter=1,o.recharging=!1"
+  }
+]

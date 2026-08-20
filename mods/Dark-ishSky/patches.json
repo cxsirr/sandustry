@@ -1,0 +1,11 @@
+[
+  {
+    "id": "sky-color-to-grey",
+    "file": "js/bundle.js",
+    "find": "return skyColor;\\n}\\n\\nvoid main( void )",
+    "expectedMatches": 1,
+    "occurrence": 1,
+    "operation": "replace",
+    "code": "return vec3(0.12, 0.12, 0.14);\\n}\\n\\nvoid main( void )"
+  }
+]

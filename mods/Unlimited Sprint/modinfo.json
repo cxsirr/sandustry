@@ -1,0 +1,12 @@
+{
+  "manifestVersion": 1,
+  "id": "cxsir.unlimited-sprint",
+  "name": "Unlimited Sprint",
+  "version": "1.0.0",
+  "apiVersion": 1,
+  "entry": "main.js",
+  "description": "Sprint Boost meter never depletes, so you can sprint indefinitely.",
+  "author": "cxsir",
+  "dependencies": [],
+  "loadOrder": 0
+}
